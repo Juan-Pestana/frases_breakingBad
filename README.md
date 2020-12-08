@@ -2,8 +2,7 @@
 
 
 Este proyecto, hace uso de [Create React App](https://github.com/facebook/create-react-app) y se ha realizado con fines foromativos.  
-
-Citas Pacientes es una aplicación sencilla que trae frases de la serie de televisión Breaking Bad.
+Frases Breaking Bad es una aplicación sencilla que trae frases de la serie de televisión Breaking Bad.
 
 ## Aprendizaje
 
